@@ -1,4 +1,4 @@
-Web1:
+web1:
 name: web tunel
 on:
   push:
